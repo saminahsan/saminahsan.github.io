@@ -18,8 +18,8 @@ function Contact() {
                 <Button icon={<BsLinkedin size="1.5em"/>} auto light css={{fontFamily: "Rubik"}}>samin-ahsan</Button>
             </Link>
 
-            <Link href='https://github.com/speedyGonzal0' target="_blank">
-                <Button icon={<AiOutlineGithub size="1.5em"/>} auto light css={{fontFamily: "Rubik"}}>speedyGonzal0</Button>
+            <Link href='https://github.com/saminahsan' target="_blank">
+                <Button icon={<AiOutlineGithub size="1.5em"/>} auto light css={{fontFamily: "Rubik"}}>saminahsan</Button>
             </Link>
 
         
@@ -27,7 +27,7 @@ function Contact() {
 
         <div className="footer">
             <Text color="$neutral" css={{fontFamily: "Rubik"}}>
-                Built by <Link css={{fontFamily: "Rubik"}} block color="text" isExternal href='https://github.com/speedyGonzal0/saminahsan.github.io.git' target="_blank"> Samin Ahsan </Link>
+                Built by <Link css={{fontFamily: "Rubik"}} block color="text" isExternal href='https://github.com/saminahsan/saminahsan.github.io' target="_blank"> Samin Ahsan </Link>
             </Text>
             
             <Text color="$neutral" css={{fontFamily: "Rubik", display: "flex", gap: "0.5em"}}>
