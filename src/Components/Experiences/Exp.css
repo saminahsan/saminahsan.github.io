@@ -9,12 +9,13 @@
     /* gap: 1em; */
     flex-direction: column;
     height: auto;
-    width: 100%;
+    width: 50%;
+    max-width: 1000px;
     flex-shrink: 0;
 }
 
 @media screen and (max-width: 1280px) {
-    .Exp{
+    .Exp {
         width: 90%;
         /* height: auto; */
     }

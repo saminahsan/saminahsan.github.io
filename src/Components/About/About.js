@@ -22,8 +22,7 @@ function About() {
             <Button bordered color="gradient" auto>
                 Get in touch
             </Button>  
-        </Link>            
-              
+        </Link>
     </div>
   )
 }
